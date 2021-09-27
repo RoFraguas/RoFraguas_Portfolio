@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0%
+}
+
+@import "ul";
+@import "nav";
+@import "h1";
+@import "header";
+@import "body";
+@import "branding";
+
+
+a {
+    margin: 5px;
+}
+
+.header__img {
+    width: 80px;
+    height: 60px;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+}
+
+
+
+
+.ux_rightcolumn {
+    display: flex;
+}
+
+.ux_leftcolumn {
+    display: flex;
+}
+
+.ux_img_1 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
+
+.ux_img_2 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
+
+.contact_form {
+    width: 500px;
+    height: 400px;
+    padding: 60px;
+}
